@@ -1,0 +1,59 @@
+Oradea:
+  Between: 0.0, Close: 0.0023324331, Degree: 2, Eigen: 0.0545807732
+
+Zerind:
+  Between: 0.7602339181, Close: 0.002197548, Degree: 2, Eigen: 0.0430696486
+
+Arad:
+  Between: 5.2748538012, Close: 0.0025517056, Degree: 3, Eigen: 0.065388814
+
+Timisoara:
+  Between: 1.5614035088, Close: 0.0021704364, Degree: 2, Eigen: 0.030105567
+
+Lugoj:
+  Between: 1.1169590643, Close: 0.0021687022, Degree: 2, Eigen: 0.0184696005
+
+Mehadia:
+  Between: 1.7426900585, Close: 0.0022877784, Degree: 2, Eigen: 0.021341111
+
+Drobeta:
+  Between: 2.485380117, Close: 0.0024733142, Degree: 2, Eigen: 0.0409756089
+
+Craiova:
+  Between: 3.2280701754, Close: 0.0029384473, Degree: 3, Eigen: 0.0927955733
+
+Sibiu:
+  Between: 7.9883040936, Close: 0.0030230708, Degree: 4, Eigen: 0.1089639306
+
+Rimnicu Vilcea:
+  Between: 7.6842105263, Close: 0.0032946072, Degree: 3, Eigen: 0.1107558705
+
+Fagaras:
+  Between: 0.0, Close: 0.0028194094, Degree: 2, Eigen: 0.0727912459
+
+Pitesti:
+  Between: 8.7485380117, Close: 0.0034289839, Degree: 3, Eigen: 0.10674861
+
+Giurgiu:
+  Between: 0.0, Close: 0.0025679146, Degree: 1, Eigen: 0.03367268
+
+Bucharest:
+  Between: 8.9883040936, Close: 0.003287766, Degree: 4, Eigen: 0.0937945316
+
+Urziceni:
+  Between: 6.9766081871, Close: 0.0029416318, Degree: 3, Eigen: 0.0480501305
+
+Eforie:
+  Between: 0.0, Close: 0.0019843342, Degree: 1, Eigen: 0.0071091734
+
+Hirsova:
+  Between: 1.6081871345, Close: 0.0023670113, Degree: 2, Eigen: 0.0198024507
+
+Vaslui:
+  Between: 2.485380117, Close: 0.0022493193, Degree: 2, Eigen: 0.0202456309
+
+Iasi:
+  Between: 1.2105263158, Close: 0.0019155157, Degree: 2, Eigen: 0.0083436424
+
+Neamt:
+  Between: 0.0, Close: 0.0016543317, Degree: 1, Eigen: 0.0029954071

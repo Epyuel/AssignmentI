@@ -1,0 +1,1876 @@
+DFS Algorithm
+ Start:Oradea
+ Goal:Timisoara
+Average_time:7.89 MicroSeconds
+Path_length:9
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara'])
+
+UCS Algorithm
+ Start:Oradea
+ Goal:Timisoara
+Average_time:10.72 MicroSeconds
+Path_length:4
+Path:deque(['Oradea', 'Zerind', 'Arad', 'Timisoara'])
+
+A* Search Algorithm
+ Start:Oradea
+ Goal:Timisoara
+Average_time:8.88 MicroSeconds
+Path_length:4
+Path:deque(['Oradea', 'Zerind', 'Arad', 'Timisoara'])
+
+DFS Algorithm
+ Start:Oradea
+ Goal:Rimnicu Vilcea
+Average_time:3.21 MicroSeconds
+Path_length:3
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea'])
+
+UCS Algorithm
+ Start:Oradea
+ Goal:Rimnicu Vilcea
+Average_time:7.78 MicroSeconds
+Path_length:3
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea'])
+
+A* Search Algorithm
+ Start:Oradea
+ Goal:Rimnicu Vilcea
+Average_time:7.25 MicroSeconds
+Path_length:3
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea'])
+
+DFS Algorithm
+ Start:Oradea
+ Goal:Pitesti
+Average_time:5.49 MicroSeconds
+Path_length:4
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti'])
+
+UCS Algorithm
+ Start:Oradea
+ Goal:Pitesti
+Average_time:12.88 MicroSeconds
+Path_length:4
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti'])
+
+A* Search Algorithm
+ Start:Oradea
+ Goal:Pitesti
+Average_time:11.0 MicroSeconds
+Path_length:4
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti'])
+
+DFS Algorithm
+ Start:Oradea
+ Goal:Fagaras
+Average_time:14.76 MicroSeconds
+Path_length:6
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Fagaras'])
+
+UCS Algorithm
+ Start:Oradea
+ Goal:Fagaras
+Average_time:9.36 MicroSeconds
+Path_length:3
+Path:deque(['Oradea', 'Sibiu', 'Fagaras'])
+
+A* Search Algorithm
+ Start:Oradea
+ Goal:Fagaras
+Average_time:7.51 MicroSeconds
+Path_length:3
+Path:deque(['Oradea', 'Sibiu', 'Fagaras'])
+
+DFS Algorithm
+ Start:Oradea
+ Goal:Eforie
+Average_time:14.13 MicroSeconds
+Path_length:8
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+UCS Algorithm
+ Start:Oradea
+ Goal:Eforie
+Average_time:25.34 MicroSeconds
+Path_length:7
+Path:deque(['Oradea', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+A* Search Algorithm
+ Start:Oradea
+ Goal:Eforie
+Average_time:24.48 MicroSeconds
+Path_length:7
+Path:deque(['Oradea', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+DFS Algorithm
+ Start:Oradea
+ Goal:Bucharest
+Average_time:9.43 MicroSeconds
+Path_length:5
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest'])
+
+UCS Algorithm
+ Start:Oradea
+ Goal:Bucharest
+Average_time:17.12 MicroSeconds
+Path_length:4
+Path:deque(['Oradea', 'Sibiu', 'Fagaras', 'Bucharest'])
+
+A* Search Algorithm
+ Start:Oradea
+ Goal:Bucharest
+Average_time:15.3 MicroSeconds
+Path_length:4
+Path:deque(['Oradea', 'Sibiu', 'Fagaras', 'Bucharest'])
+
+DFS Algorithm
+ Start:Oradea
+ Goal:Arad
+Average_time:8.65 MicroSeconds
+Path_length:10
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad'])
+
+UCS Algorithm
+ Start:Oradea
+ Goal:Arad
+Average_time:4.67 MicroSeconds
+Path_length:3
+Path:deque(['Oradea', 'Zerind', 'Arad'])
+
+A* Search Algorithm
+ Start:Oradea
+ Goal:Arad
+Average_time:5.1 MicroSeconds
+Path_length:3
+Path:deque(['Oradea', 'Zerind', 'Arad'])
+
+DFS Algorithm
+ Start:Oradea
+ Goal:Urziceni
+Average_time:10.95 MicroSeconds
+Path_length:6
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni'])
+
+UCS Algorithm
+ Start:Oradea
+ Goal:Urziceni
+Average_time:19.29 MicroSeconds
+Path_length:5
+Path:deque(['Oradea', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni'])
+
+A* Search Algorithm
+ Start:Oradea
+ Goal:Urziceni
+Average_time:18.06 MicroSeconds
+Path_length:5
+Path:deque(['Oradea', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni'])
+
+DFS Algorithm
+ Start:Oradea
+ Goal:Vaslui
+Average_time:12.44 MicroSeconds
+Path_length:7
+Path:deque(['Oradea', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+
+DFS Algorithm
+ Start:Timisoara
+ Goal:Oradea
+Average_time:15.45 MicroSeconds
+Path_length:12
+Path:deque(['Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pitesti', 'Bucharest', 'Fagaras', 'Sibiu', 'Arad', 'Zerind', 'Oradea'])
+
+UCS Algorithm
+ Start:Timisoara
+ Goal:Oradea
+Average_time:12.25 MicroSeconds
+Path_length:4
+Path:deque(['Timisoara', 'Arad', 'Zerind', 'Oradea'])
+
+A* Search Algorithm
+ Start:Timisoara
+ Goal:Oradea
+Average_time:8.73 MicroSeconds
+Path_length:4
+Path:deque(['Timisoara', 'Arad', 'Zerind', 'Oradea'])
+
+DFS Algorithm
+ Start:Timisoara
+ Goal:Rimnicu Vilcea
+Average_time:13.12 MicroSeconds
+Path_length:10
+Path:deque(['Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pitesti', 'Bucharest', 'Fagaras', 'Sibiu', 'Rimnicu Vilcea'])
+
+UCS Algorithm
+ Start:Timisoara
+ Goal:Rimnicu Vilcea
+Average_time:12.93 MicroSeconds
+Path_length:4
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+A* Search Algorithm
+ Start:Timisoara
+ Goal:Rimnicu Vilcea
+Average_time:13.27 MicroSeconds
+Path_length:4
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+DFS Algorithm
+ Start:Timisoara
+ Goal:Pitesti
+Average_time:5.52 MicroSeconds
+Path_length:6
+Path:deque(['Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pitesti'])
+
+UCS Algorithm
+ Start:Timisoara
+ Goal:Pitesti
+Average_time:17.17 MicroSeconds
+Path_length:5
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti'])
+
+A* Search Algorithm
+ Start:Timisoara
+ Goal:Pitesti
+Average_time:17.97 MicroSeconds
+Path_length:5
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti'])
+
+DFS Algorithm
+ Start:Timisoara
+ Goal:Fagaras
+Average_time:11.72 MicroSeconds
+Path_length:8
+Path:deque(['Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pitesti', 'Bucharest', 'Fagaras'])
+
+UCS Algorithm
+ Start:Timisoara
+ Goal:Fagaras
+Average_time:14.55 MicroSeconds
+Path_length:4
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras'])
+
+A* Search Algorithm
+ Start:Timisoara
+ Goal:Fagaras
+Average_time:12.66 MicroSeconds
+Path_length:4
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras'])
+
+DFS Algorithm
+ Start:Timisoara
+ Goal:Eforie
+Average_time:11.16 MicroSeconds
+Path_length:10
+Path:deque(['Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pitesti', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+UCS Algorithm
+ Start:Timisoara
+ Goal:Eforie
+Average_time:25.44 MicroSeconds
+Path_length:8
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+A* Search Algorithm
+ Start:Timisoara
+ Goal:Eforie
+Average_time:27.63 MicroSeconds
+Path_length:8
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+DFS Algorithm
+ Start:Timisoara
+ Goal:Bucharest
+Average_time:6.37 MicroSeconds
+Path_length:7
+Path:deque(['Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pitesti', 'Bucharest'])
+
+UCS Algorithm
+ Start:Timisoara
+ Goal:Bucharest
+Average_time:18.22 MicroSeconds
+Path_length:5
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest'])
+
+A* Search Algorithm
+ Start:Timisoara
+ Goal:Bucharest
+Average_time:19.14 MicroSeconds
+Path_length:5
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest'])
+
+DFS Algorithm
+ Start:Timisoara
+ Goal:Arad
+Average_time:13.82 MicroSeconds
+Path_length:10
+Path:deque(['Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pitesti', 'Bucharest', 'Fagaras', 'Sibiu', 'Arad'])
+
+UCS Algorithm
+ Start:Timisoara
+ Goal:Arad
+Average_time:4.26 MicroSeconds
+Path_length:2
+Path:deque(['Timisoara', 'Arad'])
+
+A* Search Algorithm
+ Start:Timisoara
+ Goal:Arad
+Average_time:3.6 MicroSeconds
+Path_length:2
+Path:deque(['Timisoara', 'Arad'])
+
+DFS Algorithm
+ Start:Timisoara
+ Goal:Urziceni
+Average_time:8.1 MicroSeconds
+Path_length:8
+Path:deque(['Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pitesti', 'Bucharest', 'Urziceni'])
+
+UCS Algorithm
+ Start:Timisoara
+ Goal:Urziceni
+Average_time:19.59 MicroSeconds
+Path_length:6
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni'])
+
+A* Search Algorithm
+ Start:Timisoara
+ Goal:Urziceni
+Average_time:22.53 MicroSeconds
+Path_length:6
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni'])
+
+DFS Algorithm
+ Start:Timisoara
+ Goal:Vaslui
+Average_time:8.6 MicroSeconds
+Path_length:9
+Path:deque(['Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pitesti', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+UCS Algorithm
+ Start:Timisoara
+ Goal:Vaslui
+Average_time:23.68 MicroSeconds
+Path_length:7
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+A* Search Algorithm
+ Start:Timisoara
+ Goal:Vaslui
+Average_time:25.54 MicroSeconds
+Path_length:7
+Path:deque(['Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+DFS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Oradea
+Average_time:14.33 MicroSeconds
+Path_length:10
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Oradea'])
+
+UCS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Oradea
+Average_time:14.17 MicroSeconds
+Path_length:3
+Path:deque(['Rimnicu Vilcea', 'Sibiu', 'Oradea'])
+
+A* Search Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Oradea
+Average_time:9.92 MicroSeconds
+Path_length:3
+Path:deque(['Rimnicu Vilcea', 'Sibiu', 'Oradea'])
+
+DFS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Timisoara
+Average_time:5.93 MicroSeconds
+Path_length:7
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara'])
+
+UCS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Timisoara
+Average_time:20.5 MicroSeconds
+Path_length:4
+Path:deque(['Rimnicu Vilcea', 'Sibiu', 'Arad', 'Timisoara'])
+
+A* Search Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Timisoara
+Average_time:15.38 MicroSeconds
+Path_length:4
+Path:deque(['Rimnicu Vilcea', 'Sibiu', 'Arad', 'Timisoara'])
+
+DFS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Pitesti
+Average_time:2.25 MicroSeconds
+Path_length:2
+Path:deque(['Rimnicu Vilcea', 'Pitesti'])
+
+UCS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Pitesti
+Average_time:5.58 MicroSeconds
+Path_length:2
+Path:deque(['Rimnicu Vilcea', 'Pitesti'])
+
+A* Search Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Pitesti
+Average_time:4.07 MicroSeconds
+Path_length:2
+Path:deque(['Rimnicu Vilcea', 'Pitesti'])
+
+DFS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Fagaras
+Average_time:8.67 MicroSeconds
+Path_length:10
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras'])
+
+UCS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Fagaras
+Average_time:9.26 MicroSeconds
+Path_length:3
+Path:deque(['Rimnicu Vilcea', 'Sibiu', 'Fagaras'])
+
+A* Search Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Fagaras
+Average_time:10.04 MicroSeconds
+Path_length:3
+Path:deque(['Rimnicu Vilcea', 'Sibiu', 'Fagaras'])
+
+DFS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Eforie
+Average_time:14.21 MicroSeconds
+Path_length:14
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+UCS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Eforie
+Average_time:27.77 MicroSeconds
+Path_length:6
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+A* Search Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Eforie
+Average_time:24.63 MicroSeconds
+Path_length:6
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+DFS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Bucharest
+Average_time:9.0 MicroSeconds
+Path_length:11
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest'])
+
+UCS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Bucharest
+Average_time:9.97 MicroSeconds
+Path_length:3
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Bucharest'])
+
+A* Search Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Bucharest
+Average_time:10.15 MicroSeconds
+Path_length:3
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Bucharest'])
+
+DFS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Arad
+Average_time:6.61 MicroSeconds
+Path_length:8
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad'])
+
+UCS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Arad
+Average_time:12.4 MicroSeconds
+Path_length:3
+Path:deque(['Rimnicu Vilcea', 'Sibiu', 'Arad'])
+
+A* Search Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Arad
+Average_time:10.66 MicroSeconds
+Path_length:3
+Path:deque(['Rimnicu Vilcea', 'Sibiu', 'Arad'])
+
+DFS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Urziceni
+Average_time:11.22 MicroSeconds
+Path_length:12
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni'])
+
+UCS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Urziceni
+Average_time:16.69 MicroSeconds
+Path_length:4
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni'])
+
+A* Search Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Urziceni
+Average_time:13.27 MicroSeconds
+Path_length:4
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni'])
+
+DFS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Vaslui
+Average_time:11.87 MicroSeconds
+Path_length:13
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+UCS Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Vaslui
+Average_time:25.3 MicroSeconds
+Path_length:5
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+A* Search Algorithm
+ Start:Rimnicu Vilcea
+ Goal:Vaslui
+Average_time:23.58 MicroSeconds
+Path_length:5
+Path:deque(['Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+DFS Algorithm
+ Start:Pitesti
+ Goal:Oradea
+Average_time:13.73 MicroSeconds
+Path_length:9
+Path:deque(['Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Oradea'])
+
+UCS Algorithm
+ Start:Pitesti
+ Goal:Oradea
+Average_time:22.44 MicroSeconds
+Path_length:4
+Path:deque(['Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Oradea'])
+
+A* Search Algorithm
+ Start:Pitesti
+ Goal:Oradea
+Average_time:14.62 MicroSeconds
+Path_length:4
+Path:deque(['Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Oradea'])
+
+DFS Algorithm
+ Start:Pitesti
+ Goal:Timisoara
+Average_time:5.24 MicroSeconds
+Path_length:6
+Path:deque(['Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara'])
+
+UCS Algorithm
+ Start:Pitesti
+ Goal:Timisoara
+Average_time:28.76 MicroSeconds
+Path_length:5
+Path:deque(['Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad', 'Timisoara'])
+
+A* Search Algorithm
+ Start:Pitesti
+ Goal:Timisoara
+Average_time:25.43 MicroSeconds
+Path_length:5
+Path:deque(['Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad', 'Timisoara'])
+
+DFS Algorithm
+ Start:Pitesti
+ Goal:Rimnicu Vilcea
+Average_time:7.65 MicroSeconds
+Path_length:9
+Path:deque(['Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+UCS Algorithm
+ Start:Pitesti
+ Goal:Rimnicu Vilcea
+Average_time:3.79 MicroSeconds
+Path_length:2
+Path:deque(['Pitesti', 'Rimnicu Vilcea'])
+
+A* Search Algorithm
+ Start:Pitesti
+ Goal:Rimnicu Vilcea
+Average_time:4.17 MicroSeconds
+Path_length:2
+Path:deque(['Pitesti', 'Rimnicu Vilcea'])
+
+DFS Algorithm
+ Start:Pitesti
+ Goal:Fagaras
+Average_time:8.75 MicroSeconds
+Path_length:9
+Path:deque(['Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras'])
+
+UCS Algorithm
+ Start:Pitesti
+ Goal:Fagaras
+Average_time:17.33 MicroSeconds
+Path_length:3
+Path:deque(['Pitesti', 'Bucharest', 'Fagaras'])
+
+A* Search Algorithm
+ Start:Pitesti
+ Goal:Fagaras
+Average_time:14.99 MicroSeconds
+Path_length:3
+Path:deque(['Pitesti', 'Bucharest', 'Fagaras'])
+
+DFS Algorithm
+ Start:Pitesti
+ Goal:Eforie
+Average_time:14.16 MicroSeconds
+Path_length:13
+Path:deque(['Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])      
+
+UCS Algorithm
+ Start:Pitesti
+ Goal:Eforie
+Average_time:23.55 MicroSeconds
+Path_length:5
+Path:deque(['Pitesti', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+A* Search Algorithm
+ Start:Pitesti
+ Goal:Eforie
+Average_time:19.28 MicroSeconds
+Path_length:5
+Path:deque(['Pitesti', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+DFS Algorithm
+ Start:Pitesti
+ Goal:Bucharest
+Average_time:9.51 MicroSeconds
+Path_length:10
+Path:deque(['Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest'])
+
+UCS Algorithm
+ Start:Pitesti
+ Goal:Bucharest
+Average_time:5.14 MicroSeconds
+Path_length:2
+Path:deque(['Pitesti', 'Bucharest'])
+
+A* Search Algorithm
+ Start:Pitesti
+ Goal:Bucharest
+Average_time:4.19 MicroSeconds
+Path_length:2
+Path:deque(['Pitesti', 'Bucharest'])
+
+DFS Algorithm
+ Start:Pitesti
+ Goal:Arad
+Average_time:5.92 MicroSeconds
+Path_length:7
+Path:deque(['Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad'])
+
+UCS Algorithm
+ Start:Pitesti
+ Goal:Arad
+Average_time:19.09 MicroSeconds
+Path_length:4
+Path:deque(['Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad'])
+
+A* Search Algorithm
+ Start:Pitesti
+ Goal:Arad
+Average_time:14.73 MicroSeconds
+Path_length:4
+Path:deque(['Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad'])
+
+DFS Algorithm
+ Start:Pitesti
+ Goal:Urziceni
+Average_time:10.58 MicroSeconds
+Path_length:11
+Path:deque(['Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni'])
+
+UCS Algorithm
+ Start:Pitesti
+ Goal:Urziceni
+Average_time:11.39 MicroSeconds
+Path_length:3
+Path:deque(['Pitesti', 'Bucharest', 'Urziceni'])
+
+A* Search Algorithm
+ Start:Pitesti
+ Goal:Urziceni
+Average_time:8.51 MicroSeconds
+Path_length:3
+Path:deque(['Pitesti', 'Bucharest', 'Urziceni'])
+
+DFS Algorithm
+ Start:Pitesti
+ Goal:Vaslui
+Average_time:11.56 MicroSeconds
+Path_length:12
+Path:deque(['Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+UCS Algorithm
+ Start:Pitesti
+ Goal:Vaslui
+Average_time:19.83 MicroSeconds
+Path_length:4
+Path:deque(['Pitesti', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+A* Search Algorithm
+ Start:Pitesti
+ Goal:Vaslui
+Average_time:17.34 MicroSeconds
+Path_length:4
+Path:deque(['Pitesti', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+DFS Algorithm
+ Start:Fagaras
+ Goal:Oradea
+Average_time:14.33 MicroSeconds
+Path_length:11
+Path:deque(['Fagaras', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Oradea'])
+
+UCS Algorithm
+ Start:Fagaras
+ Goal:Oradea
+Average_time:12.1 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Sibiu', 'Oradea'])
+
+A* Search Algorithm
+ Start:Fagaras
+ Goal:Oradea
+Average_time:6.2 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Sibiu', 'Oradea'])
+
+DFS Algorithm
+ Start:Fagaras
+ Goal:Timisoara
+Average_time:11.26 MicroSeconds
+Path_length:8
+Path:deque(['Fagaras', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara'])
+
+UCS Algorithm
+ Start:Fagaras
+ Goal:Timisoara
+Average_time:18.8 MicroSeconds
+Path_length:4
+Path:deque(['Fagaras', 'Sibiu', 'Arad', 'Timisoara'])
+
+A* Search Algorithm
+ Start:Fagaras
+ Goal:Timisoara
+Average_time:14.93 MicroSeconds
+Path_length:4
+Path:deque(['Fagaras', 'Sibiu', 'Arad', 'Timisoara'])
+
+DFS Algorithm
+ Start:Fagaras
+ Goal:Rimnicu Vilcea
+Average_time:13.32 MicroSeconds
+Path_length:11
+Path:deque(['Fagaras', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+UCS Algorithm
+ Start:Fagaras
+ Goal:Rimnicu Vilcea
+Average_time:5.58 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Sibiu', 'Rimnicu Vilcea'])
+
+A* Search Algorithm
+ Start:Fagaras
+ Goal:Rimnicu Vilcea
+Average_time:5.94 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Sibiu', 'Rimnicu Vilcea'])
+
+DFS Algorithm
+ Start:Fagaras
+ Goal:Pitesti
+Average_time:6.64 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Bucharest', 'Pitesti'])
+
+UCS Algorithm
+ Start:Fagaras
+ Goal:Pitesti
+Average_time:12.78 MicroSeconds
+Path_length:4
+Path:deque(['Fagaras', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti'])
+
+A* Search Algorithm
+ Start:Fagaras
+ Goal:Pitesti
+Average_time:11.54 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Bucharest', 'Pitesti'])
+
+DFS Algorithm
+ Start:Fagaras
+ Goal:Eforie
+Average_time:6.66 MicroSeconds
+Path_length:5
+Path:deque(['Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+UCS Algorithm
+ Start:Fagaras
+ Goal:Eforie
+Average_time:25.76 MicroSeconds
+Path_length:5
+Path:deque(['Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+A* Search Algorithm
+ Start:Fagaras
+ Goal:Eforie
+Average_time:17.87 MicroSeconds
+Path_length:5
+Path:deque(['Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+DFS Algorithm
+ Start:Fagaras
+ Goal:Bucharest
+Average_time:1.98 MicroSeconds
+Path_length:2
+Path:deque(['Fagaras', 'Bucharest'])
+
+UCS Algorithm
+ Start:Fagaras
+ Goal:Bucharest
+Average_time:7.03 MicroSeconds
+Path_length:2
+Path:deque(['Fagaras', 'Bucharest'])
+
+A* Search Algorithm
+ Start:Fagaras
+ Goal:Bucharest
+Average_time:3.68 MicroSeconds
+Path_length:2
+Path:deque(['Fagaras', 'Bucharest'])
+
+DFS Algorithm
+ Start:Fagaras
+ Goal:Arad
+Average_time:11.41 MicroSeconds
+Path_length:9
+Path:deque(['Fagaras', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad'])
+
+UCS Algorithm
+ Start:Fagaras
+ Goal:Arad
+Average_time:9.12 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Sibiu', 'Arad'])
+
+A* Search Algorithm
+ Start:Fagaras
+ Goal:Arad
+Average_time:6.08 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Sibiu', 'Arad'])
+
+DFS Algorithm
+ Start:Fagaras
+ Goal:Urziceni
+Average_time:3.51 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Bucharest', 'Urziceni'])
+
+UCS Algorithm
+ Start:Fagaras
+ Goal:Urziceni
+Average_time:13.61 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Bucharest', 'Urziceni'])
+
+A* Search Algorithm
+ Start:Fagaras
+ Goal:Urziceni
+Average_time:8.76 MicroSeconds
+Path_length:3
+Path:deque(['Fagaras', 'Bucharest', 'Urziceni'])
+
+DFS Algorithm
+ Start:Fagaras
+ Goal:Vaslui
+Average_time:4.58 MicroSeconds
+Path_length:4
+Path:deque(['Fagaras', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+UCS Algorithm
+ Start:Fagaras
+ Goal:Vaslui
+Average_time:22.22 MicroSeconds
+Path_length:4
+Path:deque(['Fagaras', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+A* Search Algorithm
+ Start:Fagaras
+ Goal:Vaslui
+Average_time:19.36 MicroSeconds
+Path_length:4
+Path:deque(['Fagaras', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+DFS Algorithm
+ Start:Eforie
+ Goal:Oradea
+Average_time:15.08 MicroSeconds
+Path_length:13
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Oradea'])       
+
+UCS Algorithm
+ Start:Eforie
+ Goal:Oradea
+Average_time:23.42 MicroSeconds
+Path_length:8
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Oradea'])
+
+A* Search Algorithm
+ Start:Eforie
+ Goal:Oradea
+Average_time:23.67 MicroSeconds
+Path_length:7
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Fagaras', 'Sibiu', 'Oradea'])
+
+DFS Algorithm
+ Start:Eforie
+ Goal:Timisoara
+Average_time:11.6 MicroSeconds
+Path_length:10
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara'])
+
+UCS Algorithm
+ Start:Eforie
+ Goal:Timisoara
+Average_time:27.83 MicroSeconds
+Path_length:9
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad', 'Timisoara'])
+
+A* Search Algorithm
+ Start:Eforie
+ Goal:Timisoara
+Average_time:28.56 MicroSeconds
+Path_length:8
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Fagaras', 'Sibiu', 'Arad', 'Timisoara'])
+
+DFS Algorithm
+ Start:Eforie
+ Goal:Rimnicu Vilcea
+Average_time:14.42 MicroSeconds
+Path_length:13
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+UCS Algorithm
+ Start:Eforie
+ Goal:Rimnicu Vilcea
+Average_time:13.98 MicroSeconds
+Path_length:6
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea'])
+
+A* Search Algorithm
+ Start:Eforie
+ Goal:Rimnicu Vilcea
+Average_time:14.8 MicroSeconds
+Path_length:6
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea'])
+
+DFS Algorithm
+ Start:Eforie
+ Goal:Pitesti
+Average_time:8.04 MicroSeconds
+Path_length:5
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti'])
+
+UCS Algorithm
+ Start:Eforie
+ Goal:Pitesti
+Average_time:11.22 MicroSeconds
+Path_length:5
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti'])
+
+A* Search Algorithm
+ Start:Eforie
+ Goal:Pitesti
+Average_time:9.42 MicroSeconds
+Path_length:5
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti'])
+
+DFS Algorithm
+ Start:Eforie
+ Goal:Fagaras
+Average_time:14.39 MicroSeconds
+Path_length:13
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras'])      
+
+UCS Algorithm
+ Start:Eforie
+ Goal:Fagaras
+Average_time:15.59 MicroSeconds
+Path_length:5
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Fagaras'])
+
+A* Search Algorithm
+ Start:Eforie
+ Goal:Fagaras
+Average_time:13.83 MicroSeconds
+Path_length:5
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Fagaras'])
+
+DFS Algorithm
+ Start:Eforie
+ Goal:Bucharest
+Average_time:5.29 MicroSeconds
+Path_length:4
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest'])
+
+UCS Algorithm
+ Start:Eforie
+ Goal:Bucharest
+Average_time:5.97 MicroSeconds
+Path_length:4
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest'])
+
+A* Search Algorithm
+ Start:Eforie
+ Goal:Bucharest
+Average_time:6.53 MicroSeconds
+Path_length:4
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest'])
+
+DFS Algorithm
+ Start:Eforie
+ Goal:Arad
+Average_time:11.77 MicroSeconds
+Path_length:11
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad'])
+
+UCS Algorithm
+ Start:Eforie
+ Goal:Arad
+Average_time:20.95 MicroSeconds
+Path_length:8
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad'])
+
+A* Search Algorithm
+ Start:Eforie
+ Goal:Arad
+Average_time:23.35 MicroSeconds
+Path_length:7
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Bucharest', 'Fagaras', 'Sibiu', 'Arad'])
+
+DFS Algorithm
+ Start:Eforie
+ Goal:Urziceni
+Average_time:2.83 MicroSeconds
+Path_length:3
+Path:deque(['Eforie', 'Hirsova', 'Urziceni'])
+
+UCS Algorithm
+ Start:Eforie
+ Goal:Urziceni
+Average_time:4.05 MicroSeconds
+Path_length:3
+Path:deque(['Eforie', 'Hirsova', 'Urziceni'])
+
+A* Search Algorithm
+ Start:Eforie
+ Goal:Urziceni
+Average_time:4.74 MicroSeconds
+Path_length:3
+Path:deque(['Eforie', 'Hirsova', 'Urziceni'])
+
+DFS Algorithm
+ Start:Eforie
+ Goal:Vaslui
+Average_time:4.14 MicroSeconds
+Path_length:4
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Vaslui'])
+
+UCS Algorithm
+ Start:Eforie
+ Goal:Vaslui
+Average_time:7.9 MicroSeconds
+Path_length:4
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Vaslui'])
+
+A* Search Algorithm
+ Start:Eforie
+ Goal:Vaslui
+Average_time:6.63 MicroSeconds
+Path_length:4
+Path:deque(['Eforie', 'Hirsova', 'Urziceni', 'Vaslui'])
+
+DFS Algorithm
+ Start:Bucharest
+ Goal:Oradea
+Average_time:13.88 MicroSeconds
+Path_length:10
+Path:deque(['Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Oradea'])
+
+UCS Algorithm
+ Start:Bucharest
+ Goal:Oradea
+Average_time:23.71 MicroSeconds
+Path_length:5
+Path:deque(['Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Oradea'])
+
+A* Search Algorithm
+ Start:Bucharest
+ Goal:Oradea
+Average_time:18.13 MicroSeconds
+Path_length:4
+Path:deque(['Bucharest', 'Fagaras', 'Sibiu', 'Oradea'])
+
+DFS Algorithm
+ Start:Bucharest
+ Goal:Timisoara
+Average_time:10.82 MicroSeconds
+Path_length:7
+Path:deque(['Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara'])
+
+UCS Algorithm
+ Start:Bucharest
+ Goal:Timisoara
+Average_time:28.23 MicroSeconds
+Path_length:6
+Path:deque(['Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad', 'Timisoara'])
+
+A* Search Algorithm
+ Start:Bucharest
+ Goal:Timisoara
+Average_time:25.7 MicroSeconds
+Path_length:5
+Path:deque(['Bucharest', 'Fagaras', 'Sibiu', 'Arad', 'Timisoara'])
+
+DFS Algorithm
+ Start:Bucharest
+ Goal:Rimnicu Vilcea
+Average_time:13.17 MicroSeconds
+Path_length:10
+Path:deque(['Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+UCS Algorithm
+ Start:Bucharest
+ Goal:Rimnicu Vilcea
+Average_time:10.02 MicroSeconds
+Path_length:3
+Path:deque(['Bucharest', 'Pitesti', 'Rimnicu Vilcea'])
+
+A* Search Algorithm
+ Start:Bucharest
+ Goal:Rimnicu Vilcea
+Average_time:10.43 MicroSeconds
+Path_length:3
+Path:deque(['Bucharest', 'Pitesti', 'Rimnicu Vilcea'])
+
+DFS Algorithm
+ Start:Bucharest
+ Goal:Pitesti
+Average_time:6.84 MicroSeconds
+Path_length:2
+Path:deque(['Bucharest', 'Pitesti'])
+
+UCS Algorithm
+ Start:Bucharest
+ Goal:Pitesti
+Average_time:6.79 MicroSeconds
+Path_length:2
+Path:deque(['Bucharest', 'Pitesti'])
+
+A* Search Algorithm
+ Start:Bucharest
+ Goal:Pitesti
+Average_time:4.82 MicroSeconds
+Path_length:2
+Path:deque(['Bucharest', 'Pitesti'])
+
+DFS Algorithm
+ Start:Bucharest
+ Goal:Fagaras
+Average_time:13.71 MicroSeconds
+Path_length:10
+Path:deque(['Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras'])
+
+UCS Algorithm
+ Start:Bucharest
+ Goal:Fagaras
+Average_time:11.88 MicroSeconds
+Path_length:2
+Path:deque(['Bucharest', 'Fagaras'])
+
+A* Search Algorithm
+ Start:Bucharest
+ Goal:Fagaras
+Average_time:8.94 MicroSeconds
+Path_length:2
+Path:deque(['Bucharest', 'Fagaras'])
+
+DFS Algorithm
+ Start:Bucharest
+ Goal:Eforie
+Average_time:5.91 MicroSeconds
+Path_length:4
+Path:deque(['Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+UCS Algorithm
+ Start:Bucharest
+ Goal:Eforie
+Average_time:16.2 MicroSeconds
+Path_length:4
+Path:deque(['Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+A* Search Algorithm
+ Start:Bucharest
+ Goal:Eforie
+Average_time:13.99 MicroSeconds
+Path_length:4
+Path:deque(['Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+DFS Algorithm
+ Start:Bucharest
+ Goal:Arad
+Average_time:10.6 MicroSeconds
+Path_length:8
+Path:deque(['Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad'])
+
+UCS Algorithm
+ Start:Bucharest
+ Goal:Arad
+Average_time:22.12 MicroSeconds
+Path_length:5
+Path:deque(['Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad'])
+
+A* Search Algorithm
+ Start:Bucharest
+ Goal:Arad
+Average_time:17.75 MicroSeconds
+Path_length:4
+Path:deque(['Bucharest', 'Fagaras', 'Sibiu', 'Arad'])
+
+DFS Algorithm
+ Start:Bucharest
+ Goal:Urziceni
+Average_time:2.99 MicroSeconds
+Path_length:2
+Path:deque(['Bucharest', 'Urziceni'])
+
+UCS Algorithm
+ Start:Bucharest
+ Goal:Urziceni
+Average_time:4.02 MicroSeconds
+Path_length:2
+Path:deque(['Bucharest', 'Urziceni'])
+
+A* Search Algorithm
+ Start:Bucharest
+ Goal:Urziceni
+Average_time:4.57 MicroSeconds
+Path_length:2
+Path:deque(['Bucharest', 'Urziceni'])
+
+DFS Algorithm
+ Start:Bucharest
+ Goal:Vaslui
+Average_time:3.72 MicroSeconds
+Path_length:3
+Path:deque(['Bucharest', 'Urziceni', 'Vaslui'])
+
+UCS Algorithm
+ Start:Bucharest
+ Goal:Vaslui
+Average_time:12.87 MicroSeconds
+Path_length:3
+Path:deque(['Bucharest', 'Urziceni', 'Vaslui'])
+
+A* Search Algorithm
+ Start:Bucharest
+ Goal:Vaslui
+Average_time:12.03 MicroSeconds
+Path_length:3
+Path:deque(['Bucharest', 'Urziceni', 'Vaslui'])
+
+DFS Algorithm
+ Start:Arad
+ Goal:Oradea
+Average_time:14.16 MicroSeconds
+Path_length:3
+Path:deque(['Arad', 'Sibiu', 'Oradea'])
+
+UCS Algorithm
+ Start:Arad
+ Goal:Oradea
+Average_time:7.98 MicroSeconds
+Path_length:3
+Path:deque(['Arad', 'Zerind', 'Oradea'])
+
+A* Search Algorithm
+ Start:Arad
+ Goal:Oradea
+Average_time:5.64 MicroSeconds
+Path_length:3
+Path:deque(['Arad', 'Zerind', 'Oradea'])
+
+DFS Algorithm
+ Start:Arad
+ Goal:Timisoara
+Average_time:8.06 MicroSeconds
+Path_length:9
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara'])
+
+UCS Algorithm
+ Start:Arad
+ Goal:Timisoara
+Average_time:4.72 MicroSeconds
+Path_length:2
+Path:deque(['Arad', 'Timisoara'])
+
+A* Search Algorithm
+ Start:Arad
+ Goal:Timisoara
+Average_time:4.03 MicroSeconds
+Path_length:2
+Path:deque(['Arad', 'Timisoara'])
+
+DFS Algorithm
+ Start:Arad
+ Goal:Rimnicu Vilcea
+Average_time:3.04 MicroSeconds
+Path_length:3
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+UCS Algorithm
+ Start:Arad
+ Goal:Rimnicu Vilcea
+Average_time:8.5 MicroSeconds
+Path_length:3
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+A* Search Algorithm
+ Start:Arad
+ Goal:Rimnicu Vilcea
+Average_time:8.1 MicroSeconds
+Path_length:3
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+DFS Algorithm
+ Start:Arad
+ Goal:Pitesti
+Average_time:4.14 MicroSeconds
+Path_length:4
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti'])
+
+UCS Algorithm
+ Start:Arad
+ Goal:Pitesti
+Average_time:14.85 MicroSeconds
+Path_length:4
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti'])
+
+A* Search Algorithm
+ Start:Arad
+ Goal:Pitesti
+Average_time:14.1 MicroSeconds
+Path_length:4
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti'])
+
+DFS Algorithm
+ Start:Arad
+ Goal:Fagaras
+Average_time:13.3 MicroSeconds
+Path_length:6
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Fagaras'])
+
+UCS Algorithm
+ Start:Arad
+ Goal:Fagaras
+Average_time:12.07 MicroSeconds
+Path_length:3
+Path:deque(['Arad', 'Sibiu', 'Fagaras'])
+
+A* Search Algorithm
+ Start:Arad
+ Goal:Fagaras
+Average_time:8.08 MicroSeconds
+Path_length:3
+Path:deque(['Arad', 'Sibiu', 'Fagaras'])
+
+DFS Algorithm
+ Start:Arad
+ Goal:Eforie
+Average_time:12.8 MicroSeconds
+Path_length:8
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+UCS Algorithm
+ Start:Arad
+ Goal:Eforie
+Average_time:24.02 MicroSeconds
+Path_length:7
+Path:deque(['Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+A* Search Algorithm
+ Start:Arad
+ Goal:Eforie
+Average_time:26.73 MicroSeconds
+Path_length:7
+Path:deque(['Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Hirsova', 'Eforie'])
+
+DFS Algorithm
+ Start:Arad
+ Goal:Bucharest
+Average_time:7.82 MicroSeconds
+Path_length:5
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest'])
+
+UCS Algorithm
+ Start:Arad
+ Goal:Bucharest
+Average_time:17.25 MicroSeconds
+Path_length:4
+Path:deque(['Arad', 'Sibiu', 'Fagaras', 'Bucharest'])
+
+A* Search Algorithm
+ Start:Arad
+ Goal:Bucharest
+Average_time:16.56 MicroSeconds
+Path_length:4
+Path:deque(['Arad', 'Sibiu', 'Fagaras', 'Bucharest'])
+
+DFS Algorithm
+ Start:Arad
+ Goal:Urziceni
+Average_time:8.9 MicroSeconds
+Path_length:6
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni'])
+
+UCS Algorithm
+ Start:Arad
+ Goal:Urziceni
+Average_time:18.62 MicroSeconds
+Path_length:5
+Path:deque(['Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni'])
+
+A* Search Algorithm
+ Start:Arad
+ Goal:Urziceni
+Average_time:21.15 MicroSeconds
+Path_length:5
+Path:deque(['Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni'])
+
+DFS Algorithm
+ Start:Arad
+ Goal:Vaslui
+Average_time:9.94 MicroSeconds
+Path_length:7
+Path:deque(['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+UCS Algorithm
+ Start:Arad
+ Goal:Vaslui
+Average_time:23.06 MicroSeconds
+Path_length:6
+Path:deque(['Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+A* Search Algorithm
+ Start:Arad
+ Goal:Vaslui
+Average_time:25.94 MicroSeconds
+Path_length:6
+Path:deque(['Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Vaslui'])
+
+DFS Algorithm
+ Start:Urziceni
+ Goal:Oradea
+Average_time:14.4 MicroSeconds
+Path_length:11
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Oradea'])
+
+UCS Algorithm
+ Start:Urziceni
+ Goal:Oradea
+Average_time:23.01 MicroSeconds
+Path_length:6
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Oradea'])
+
+A* Search Algorithm
+ Start:Urziceni
+ Goal:Oradea
+Average_time:24.19 MicroSeconds
+Path_length:5
+Path:deque(['Urziceni', 'Bucharest', 'Fagaras', 'Sibiu', 'Oradea'])
+
+DFS Algorithm
+ Start:Urziceni
+ Goal:Timisoara
+Average_time:10.29 MicroSeconds
+Path_length:8
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara'])
+
+UCS Algorithm
+ Start:Urziceni
+ Goal:Timisoara
+Average_time:26.84 MicroSeconds
+Path_length:7
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad', 'Timisoara'])
+
+A* Search Algorithm
+ Start:Urziceni
+ Goal:Timisoara
+Average_time:28.88 MicroSeconds
+Path_length:6
+Path:deque(['Urziceni', 'Bucharest', 'Fagaras', 'Sibiu', 'Arad', 'Timisoara'])
+
+DFS Algorithm
+ Start:Urziceni
+ Goal:Rimnicu Vilcea
+Average_time:13.59 MicroSeconds
+Path_length:11
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+UCS Algorithm
+ Start:Urziceni
+ Goal:Rimnicu Vilcea
+Average_time:13.89 MicroSeconds
+Path_length:4
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea'])
+
+A* Search Algorithm
+ Start:Urziceni
+ Goal:Rimnicu Vilcea
+Average_time:14.16 MicroSeconds
+Path_length:4
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea'])
+
+DFS Algorithm
+ Start:Urziceni
+ Goal:Pitesti
+Average_time:7.03 MicroSeconds
+Path_length:3
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti'])
+
+UCS Algorithm
+ Start:Urziceni
+ Goal:Pitesti
+Average_time:10.2 MicroSeconds
+Path_length:3
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti'])
+
+A* Search Algorithm
+ Start:Urziceni
+ Goal:Pitesti
+Average_time:9.27 MicroSeconds
+Path_length:3
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti'])
+
+DFS Algorithm
+ Start:Urziceni
+ Goal:Fagaras
+Average_time:14.02 MicroSeconds
+Path_length:11
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras'])
+
+UCS Algorithm
+ Start:Urziceni
+ Goal:Fagaras
+Average_time:15.13 MicroSeconds
+Path_length:3
+Path:deque(['Urziceni', 'Bucharest', 'Fagaras'])
+
+A* Search Algorithm
+ Start:Urziceni
+ Goal:Fagaras
+Average_time:12.24 MicroSeconds
+Path_length:3
+Path:deque(['Urziceni', 'Bucharest', 'Fagaras'])
+
+DFS Algorithm
+ Start:Urziceni
+ Goal:Eforie
+Average_time:5.01 MicroSeconds
+Path_length:3
+Path:deque(['Urziceni', 'Hirsova', 'Eforie'])
+
+UCS Algorithm
+ Start:Urziceni
+ Goal:Eforie
+Average_time:9.75 MicroSeconds
+Path_length:3
+Path:deque(['Urziceni', 'Hirsova', 'Eforie'])
+
+A* Search Algorithm
+ Start:Urziceni
+ Goal:Eforie
+Average_time:8.49 MicroSeconds
+Path_length:3
+Path:deque(['Urziceni', 'Hirsova', 'Eforie'])
+
+DFS Algorithm
+ Start:Urziceni
+ Goal:Bucharest
+Average_time:4.85 MicroSeconds
+Path_length:2
+Path:deque(['Urziceni', 'Bucharest'])
+
+UCS Algorithm
+ Start:Urziceni
+ Goal:Bucharest
+Average_time:3.49 MicroSeconds
+Path_length:2
+Path:deque(['Urziceni', 'Bucharest'])
+
+A* Search Algorithm
+ Start:Urziceni
+ Goal:Bucharest
+Average_time:3.97 MicroSeconds
+Path_length:2
+Path:deque(['Urziceni', 'Bucharest'])
+
+DFS Algorithm
+ Start:Urziceni
+ Goal:Arad
+Average_time:11.05 MicroSeconds
+Path_length:9
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad'])
+
+UCS Algorithm
+ Start:Urziceni
+ Goal:Arad
+Average_time:20.53 MicroSeconds
+Path_length:6
+Path:deque(['Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad'])
+
+A* Search Algorithm
+ Start:Urziceni
+ Goal:Arad
+Average_time:23.3 MicroSeconds
+Path_length:5
+Path:deque(['Urziceni', 'Bucharest', 'Fagaras', 'Sibiu', 'Arad'])
+
+DFS Algorithm
+ Start:Urziceni
+ Goal:Vaslui
+Average_time:2.24 MicroSeconds
+Path_length:2
+Path:deque(['Urziceni', 'Vaslui'])
+
+UCS Algorithm
+ Start:Urziceni
+ Goal:Vaslui
+Average_time:7.14 MicroSeconds
+Path_length:2
+Path:deque(['Urziceni', 'Vaslui'])
+
+A* Search Algorithm
+ Start:Urziceni
+ Goal:Vaslui
+Average_time:4.22 MicroSeconds
+Path_length:2
+Path:deque(['Urziceni', 'Vaslui'])
+
+DFS Algorithm
+ Start:Vaslui
+ Goal:Oradea
+Average_time:14.39 MicroSeconds
+Path_length:12
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Oradea'])
+
+UCS Algorithm
+ Start:Vaslui
+ Goal:Oradea
+Average_time:21.49 MicroSeconds
+Path_length:7
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Oradea'])
+
+A* Search Algorithm
+ Start:Vaslui
+ Goal:Oradea
+Average_time:21.69 MicroSeconds
+Path_length:6
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Fagaras', 'Sibiu', 'Oradea'])
+
+DFS Algorithm
+ Start:Vaslui
+ Goal:Timisoara
+Average_time:10.74 MicroSeconds
+Path_length:9
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara'])
+
+UCS Algorithm
+ Start:Vaslui
+ Goal:Timisoara
+Average_time:25.8 MicroSeconds
+Path_length:8
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad', 'Timisoara'])
+
+A* Search Algorithm
+ Start:Vaslui
+ Goal:Timisoara
+Average_time:27.65 MicroSeconds
+Path_length:7
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Fagaras', 'Sibiu', 'Arad', 'Timisoara'])
+
+DFS Algorithm
+ Start:Vaslui
+ Goal:Rimnicu Vilcea
+Average_time:13.07 MicroSeconds
+Path_length:12
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Rimnicu Vilcea'])
+
+UCS Algorithm
+ Start:Vaslui
+ Goal:Rimnicu Vilcea
+Average_time:14.17 MicroSeconds
+Path_length:5
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea'])
+
+A* Search Algorithm
+ Start:Vaslui
+ Goal:Rimnicu Vilcea
+Average_time:16.28 MicroSeconds
+Path_length:5
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea'])
+
+DFS Algorithm
+ Start:Vaslui
+ Goal:Pitesti
+Average_time:6.9 MicroSeconds
+Path_length:4
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti'])
+
+UCS Algorithm
+ Start:Vaslui
+ Goal:Pitesti
+Average_time:11.4 MicroSeconds
+Path_length:4
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti'])
+
+A* Search Algorithm
+ Start:Vaslui
+ Goal:Pitesti
+Average_time:11.4 MicroSeconds
+Path_length:4
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti'])
+
+DFS Algorithm
+ Start:Vaslui
+ Goal:Fagaras
+Average_time:14.14 MicroSeconds
+Path_length:12
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad', 'Sibiu', 'Fagaras'])
+
+UCS Algorithm
+ Start:Vaslui
+ Goal:Fagaras
+Average_time:14.47 MicroSeconds
+Path_length:4
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Fagaras'])
+
+A* Search Algorithm
+ Start:Vaslui
+ Goal:Fagaras
+Average_time:13.93 MicroSeconds
+Path_length:4
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Fagaras'])
+
+DFS Algorithm
+ Start:Vaslui
+ Goal:Eforie
+Average_time:4.8 MicroSeconds
+Path_length:4
+Path:deque(['Vaslui', 'Urziceni', 'Hirsova', 'Eforie'])
+
+UCS Algorithm
+ Start:Vaslui
+ Goal:Eforie
+Average_time:11.01 MicroSeconds
+Path_length:4
+Path:deque(['Vaslui', 'Urziceni', 'Hirsova', 'Eforie'])
+
+A* Search Algorithm
+ Start:Vaslui
+ Goal:Eforie
+Average_time:11.07 MicroSeconds
+Path_length:4
+Path:deque(['Vaslui', 'Urziceni', 'Hirsova', 'Eforie'])
+
+DFS Algorithm
+ Start:Vaslui
+ Goal:Bucharest
+Average_time:5.26 MicroSeconds
+Path_length:3
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest'])
+
+UCS Algorithm
+ Start:Vaslui
+ Goal:Bucharest
+Average_time:6.35 MicroSeconds
+Path_length:3
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest'])
+
+A* Search Algorithm
+ Start:Vaslui
+ Goal:Bucharest
+Average_time:5.85 MicroSeconds
+Path_length:3
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest'])
+
+DFS Algorithm
+ Start:Vaslui
+ Goal:Arad
+Average_time:11.44 MicroSeconds
+Path_length:10
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Craiova', 'Drobeta', 'Mehadia', 'Lugoj', 'Timisoara', 'Arad'])
+
+UCS Algorithm
+ Start:Vaslui
+ Goal:Arad
+Average_time:19.89 MicroSeconds
+Path_length:7
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Pitesti', 'Rimnicu Vilcea', 'Sibiu', 'Arad'])
+
+A* Search Algorithm
+ Start:Vaslui
+ Goal:Arad
+Average_time:22.42 MicroSeconds
+Path_length:6
+Path:deque(['Vaslui', 'Urziceni', 'Bucharest', 'Fagaras', 'Sibiu', 'Arad'])
+
+DFS Algorithm
+ Start:Vaslui
+ Goal:Urziceni
+Average_time:3.17 MicroSeconds
+Path_length:2
+Path:deque(['Vaslui', 'Urziceni'])
+
+UCS Algorithm
+ Start:Vaslui
+ Goal:Urziceni
+Average_time:4.02 MicroSeconds
+Path_length:2
+Path:deque(['Vaslui', 'Urziceni'])
+
+A* Search Algorithm
+ Start:Vaslui
+ Goal:Urziceni
+Average_time:3.52 MicroSeconds
+Path_length:2
+Path:deque(['Vaslui', 'Urziceni'])
